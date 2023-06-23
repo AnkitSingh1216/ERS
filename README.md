@@ -1,7 +1,6 @@
 # Employee-Review-System
 A full stack, app used for reviewing employee.
-Hoisted Link : 
-github repository : 
+Hoisted Link : https://employee-review-sys.onrender.com
 
 
 ### Description
